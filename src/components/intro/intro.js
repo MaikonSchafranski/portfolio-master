@@ -2,7 +2,7 @@ import "./Intro.css";
 
 import React from "react";
 
-import bg from "../../assets/WhatsApp_Image_2023-11-24_at_12.35.44_PM-removebg-preview-removebg-preview (2).png";
+import bg from "../../assets/WhatsApp_Image_2023-11-24_at_12.56.05_PM-ai-brush-removebg-uxxyc29h.png";
 
 import { PDFDocument } from "pdf-lib";
 import curriculoPDF from "../../assets/curriculo.pdf";

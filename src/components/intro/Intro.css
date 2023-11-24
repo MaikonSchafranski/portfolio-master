@@ -8,6 +8,8 @@
 }
 
 .bg {
+  width: 40vw;
+  overflow: hidden;
   position: absolute;
   bottom: 0;
   right: 3rem;
